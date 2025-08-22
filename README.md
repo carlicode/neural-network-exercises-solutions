@@ -1,4 +1,4 @@
-# Neural Network Exercises - ReLU Implementation
+# ReLU Implementation
 
 This repository contains a Jupyter notebook exercise for implementing the Rectified Linear Unit (ReLU) activation function.
 
